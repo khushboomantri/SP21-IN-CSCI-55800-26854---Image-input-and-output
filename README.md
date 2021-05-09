@@ -1,4 +1,4 @@
-# SP21-IN-CSCI-55800-26854---EDGE-DETECTION
+# SP21-IN-CSCI-55800-26854---Image input and output
 
 
 Programming image input and output to your C/C++ program for processing.
